@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Day-3 c#\geometry2\geometry2\obj\Debug\net6.0\geometry2.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Day-3 c#\geometry2\geometry2\obj\Debug\net6.0\geometry2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Day-3 c#\geometry2\geometry2\obj\Debug\net6.0\geometry2.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Day-3 c#\geometry2\geometry2\obj\Debug\net6.0\geometry2.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Day-3 c#\geometry2\geometry2\obj\Debug\net6.0\geometry2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Day-3 c#\geometry2\geometry2\bin\Debug\net6.0\geometry2.exe
+C:\Users\Asus\Desktop\Day-3 c#\geometry2\geometry2\bin\Debug\net6.0\geometry2.deps.json
+C:\Users\Asus\Desktop\Day-3 c#\geometry2\geometry2\bin\Debug\net6.0\geometry2.runtimeconfig.json
+C:\Users\Asus\Desktop\Day-3 c#\geometry2\geometry2\bin\Debug\net6.0\geometry2.dll
+C:\Users\Asus\Desktop\Day-3 c#\geometry2\geometry2\bin\Debug\net6.0\geometry2.pdb
+C:\Users\Asus\Desktop\Day-3 c#\geometry2\geometry2\obj\Debug\net6.0\geometry2.dll
+C:\Users\Asus\Desktop\Day-3 c#\geometry2\geometry2\obj\Debug\net6.0\refint\geometry2.dll
+C:\Users\Asus\Desktop\Day-3 c#\geometry2\geometry2\obj\Debug\net6.0\geometry2.pdb
+C:\Users\Asus\Desktop\Day-3 c#\geometry2\geometry2\obj\Debug\net6.0\geometry2.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Day-3 c#\geometry2\geometry2\obj\Debug\net6.0\ref\geometry2.dll
