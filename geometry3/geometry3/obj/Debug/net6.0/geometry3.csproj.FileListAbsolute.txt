@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Day-3 c#\geometry3\geometry3\bin\Debug\net6.0\geometry3.exe
+C:\Users\Asus\Desktop\Day-3 c#\geometry3\geometry3\bin\Debug\net6.0\geometry3.deps.json
+C:\Users\Asus\Desktop\Day-3 c#\geometry3\geometry3\bin\Debug\net6.0\geometry3.runtimeconfig.json
+C:\Users\Asus\Desktop\Day-3 c#\geometry3\geometry3\bin\Debug\net6.0\geometry3.dll
+C:\Users\Asus\Desktop\Day-3 c#\geometry3\geometry3\bin\Debug\net6.0\geometry3.pdb
+C:\Users\Asus\Desktop\Day-3 c#\geometry3\geometry3\obj\Debug\net6.0\geometry3.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Day-3 c#\geometry3\geometry3\obj\Debug\net6.0\geometry3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Day-3 c#\geometry3\geometry3\obj\Debug\net6.0\geometry3.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Day-3 c#\geometry3\geometry3\obj\Debug\net6.0\geometry3.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Day-3 c#\geometry3\geometry3\obj\Debug\net6.0\geometry3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Day-3 c#\geometry3\geometry3\obj\Debug\net6.0\geometry3.dll
+C:\Users\Asus\Desktop\Day-3 c#\geometry3\geometry3\obj\Debug\net6.0\refint\geometry3.dll
+C:\Users\Asus\Desktop\Day-3 c#\geometry3\geometry3\obj\Debug\net6.0\geometry3.pdb
+C:\Users\Asus\Desktop\Day-3 c#\geometry3\geometry3\obj\Debug\net6.0\geometry3.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Day-3 c#\geometry3\geometry3\obj\Debug\net6.0\ref\geometry3.dll
