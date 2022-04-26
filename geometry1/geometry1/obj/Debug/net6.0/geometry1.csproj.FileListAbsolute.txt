@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Day-3 c#\geometry1\geometry1\obj\Debug\net6.0\geometry1.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Day-3 c#\geometry1\geometry1\obj\Debug\net6.0\geometry1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Day-3 c#\geometry1\geometry1\obj\Debug\net6.0\geometry1.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Day-3 c#\geometry1\geometry1\obj\Debug\net6.0\geometry1.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Day-3 c#\geometry1\geometry1\obj\Debug\net6.0\geometry1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Day-3 c#\geometry1\geometry1\bin\Debug\net6.0\geometry1.exe
+C:\Users\Asus\Desktop\Day-3 c#\geometry1\geometry1\bin\Debug\net6.0\geometry1.deps.json
+C:\Users\Asus\Desktop\Day-3 c#\geometry1\geometry1\bin\Debug\net6.0\geometry1.runtimeconfig.json
+C:\Users\Asus\Desktop\Day-3 c#\geometry1\geometry1\bin\Debug\net6.0\geometry1.dll
+C:\Users\Asus\Desktop\Day-3 c#\geometry1\geometry1\bin\Debug\net6.0\geometry1.pdb
+C:\Users\Asus\Desktop\Day-3 c#\geometry1\geometry1\obj\Debug\net6.0\geometry1.dll
+C:\Users\Asus\Desktop\Day-3 c#\geometry1\geometry1\obj\Debug\net6.0\refint\geometry1.dll
+C:\Users\Asus\Desktop\Day-3 c#\geometry1\geometry1\obj\Debug\net6.0\geometry1.pdb
+C:\Users\Asus\Desktop\Day-3 c#\geometry1\geometry1\obj\Debug\net6.0\geometry1.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Day-3 c#\geometry1\geometry1\obj\Debug\net6.0\ref\geometry1.dll
